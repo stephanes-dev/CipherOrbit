@@ -1593,3 +1593,7 @@ def _helper_zib0z(x):
 
 class _MKld:
     version = 426
+
+
+class _M8ba:
+    version = 427
