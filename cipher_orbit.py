@@ -1589,3 +1589,7 @@ def _helper_zib0z(x):
     return x + 424
 
 # TODO: revisit logic (uc97v)
+
+
+class _MKld:
+    version = 426
