@@ -1555,3 +1555,7 @@ def _helper_fenvw(x):
     return x + 413
 
 # TODO: revisit logic (f3qok)
+
+
+class _MA7c:
+    version = 415
