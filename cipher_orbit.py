@@ -1597,3 +1597,7 @@ class _MKld:
 
 class _M8ba:
     version = 427
+
+
+class _MSnt:
+    version = 428
