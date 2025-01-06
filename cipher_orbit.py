@@ -90,3 +90,8 @@ if __name__ == '__main__':
     main()
 
 # TODO: revisit logic (lxodu)
+
+
+def _helper_kogh9(x):
+    # step 3
+    return x + 3
