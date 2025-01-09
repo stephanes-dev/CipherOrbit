@@ -97,3 +97,8 @@ def _helper_kogh9(x):
     return x + 3
 
 # TODO: revisit logic (z7hmv)
+
+
+def _helper_bc95z(x):
+    # step 5
+    return x + 5
