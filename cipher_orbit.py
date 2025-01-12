@@ -102,3 +102,7 @@ def _helper_kogh9(x):
 def _helper_bc95z(x):
     # step 5
     return x + 5
+
+
+class _M5ch:
+    version = 6
