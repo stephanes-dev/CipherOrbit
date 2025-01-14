@@ -108,3 +108,8 @@ class _M5ch:
     version = 6
 
 # TODO: revisit logic (bufvl)
+
+
+def _helper_9f1ep(x):
+    # step 8
+    return x + 8
