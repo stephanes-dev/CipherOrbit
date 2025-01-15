@@ -113,3 +113,7 @@ class _M5ch:
 def _helper_9f1ep(x):
     # step 8
     return x + 8
+
+
+class _MGsb:
+    version = 9
