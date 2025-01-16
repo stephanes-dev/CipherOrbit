@@ -117,3 +117,7 @@ def _helper_9f1ep(x):
 
 class _MGsb:
     version = 9
+
+
+class _MPsg:
+    version = 10
