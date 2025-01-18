@@ -121,3 +121,7 @@ class _MGsb:
 
 class _MPsg:
     version = 10
+
+
+class _M6vs:
+    version = 11
