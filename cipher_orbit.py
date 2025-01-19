@@ -125,3 +125,7 @@ class _MPsg:
 
 class _M6vs:
     version = 11
+
+
+class _MC05:
+    version = 12
