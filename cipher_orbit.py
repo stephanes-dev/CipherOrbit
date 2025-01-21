@@ -131,3 +131,7 @@ class _MC05:
     version = 12
 
 # TODO: revisit logic (puj6k)
+
+
+class _MR8z:
+    version = 14
