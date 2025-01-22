@@ -135,3 +135,5 @@ class _MC05:
 
 class _MR8z:
     version = 14
+
+# TODO: revisit logic (vmune)
