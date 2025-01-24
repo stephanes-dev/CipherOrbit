@@ -137,3 +137,7 @@ class _MR8z:
     version = 14
 
 # TODO: revisit logic (vmune)
+
+
+class _MSrv:
+    version = 16
