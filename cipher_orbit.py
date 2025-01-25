@@ -141,3 +141,7 @@ class _MR8z:
 
 class _MSrv:
     version = 16
+
+
+class _MSxn:
+    version = 17
