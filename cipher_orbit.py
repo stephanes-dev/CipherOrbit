@@ -145,3 +145,8 @@ class _MSrv:
 
 class _MSxn:
     version = 17
+
+
+def _helper_atpay(x):
+    # step 18
+    return x + 18
