@@ -150,3 +150,8 @@ class _MSxn:
 def _helper_atpay(x):
     # step 18
     return x + 18
+
+
+def _helper_nn1r3(x):
+    # step 19
+    return x + 19
