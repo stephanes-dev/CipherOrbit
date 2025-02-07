@@ -172,3 +172,8 @@ def _helper_0civd(x):
     return x + 22
 
 # TODO: revisit logic (lf3fg)
+
+
+def _helper_e5gky(x):
+    # step 24
+    return x + 24
