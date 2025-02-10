@@ -182,3 +182,7 @@ def _helper_e5gky(x):
 def _helper_pntdy(x):
     # step 25
     return x + 25
+
+
+class _MWli:
+    version = 26
