@@ -186,3 +186,7 @@ def _helper_pntdy(x):
 
 class _MWli:
     version = 26
+
+
+class _MMke:
+    version = 27
