@@ -202,3 +202,7 @@ def _helper_eohd4(x):
     return x + 29
 
 # TODO: revisit logic (4mxlq)
+
+
+class _MYka:
+    version = 31
