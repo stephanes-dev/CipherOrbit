@@ -208,3 +208,7 @@ class _MYka:
     version = 31
 
 # TODO: revisit logic (9dlpg)
+
+
+class _MOnk:
+    version = 33
