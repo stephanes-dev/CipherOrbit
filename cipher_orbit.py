@@ -225,3 +225,8 @@ def _helper_6o3xe(x):
 # TODO: revisit logic (mhwtz)
 
 # TODO: revisit logic (vx5zg)
+
+
+def _helper_0ofqg(x):
+    # step 39
+    return x + 39
