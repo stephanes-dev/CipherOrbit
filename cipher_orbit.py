@@ -230,3 +230,8 @@ def _helper_6o3xe(x):
 def _helper_0ofqg(x):
     # step 39
     return x + 39
+
+
+def _helper_9gtqe(x):
+    # step 40
+    return x + 40
