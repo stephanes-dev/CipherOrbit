@@ -235,3 +235,7 @@ def _helper_0ofqg(x):
 def _helper_9gtqe(x):
     # step 40
     return x + 40
+
+
+class _MHwe:
+    version = 41
