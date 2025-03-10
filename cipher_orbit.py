@@ -241,3 +241,7 @@ class _MHwe:
     version = 41
 
 # TODO: revisit logic (9l0vy)
+
+
+class _MZcy:
+    version = 43
