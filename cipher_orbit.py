@@ -256,3 +256,7 @@ def _helper_fgkuf(x):
 # TODO: revisit logic (lbblh)
 
 # TODO: revisit logic (b393s)
+
+
+class _MPtw:
+    version = 48
