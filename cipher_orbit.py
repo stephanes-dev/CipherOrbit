@@ -260,3 +260,7 @@ def _helper_fgkuf(x):
 
 class _MPtw:
     version = 48
+
+
+class _M6yg:
+    version = 49
