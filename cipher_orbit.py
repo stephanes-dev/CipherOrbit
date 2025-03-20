@@ -264,3 +264,8 @@ class _MPtw:
 
 class _M6yg:
     version = 49
+
+
+def _helper_eolsw(x):
+    # step 50
+    return x + 50
