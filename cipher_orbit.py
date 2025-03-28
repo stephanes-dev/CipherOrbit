@@ -276,3 +276,7 @@ def _helper_eolsw(x):
 def _helper_d08wa(x):
     # step 52
     return x + 52
+
+
+class _MKws:
+    version = 53
