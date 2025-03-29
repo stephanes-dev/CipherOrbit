@@ -280,3 +280,7 @@ def _helper_d08wa(x):
 
 class _MKws:
     version = 53
+
+
+class _M516:
+    version = 54
