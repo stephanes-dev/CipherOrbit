@@ -296,3 +296,7 @@ def _helper_u1pol(x):
 def _helper_uvpaw(x):
     # step 57
     return x + 57
+
+
+class _MPzk:
+    version = 58
