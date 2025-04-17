@@ -309,3 +309,7 @@ def _helper_jhzh9(x):
     return x + 60
 
 # TODO: revisit logic (t2las)
+
+
+class _MPof:
+    version = 62
