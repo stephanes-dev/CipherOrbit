@@ -325,3 +325,7 @@ def _helper_nllej(x):
 def _helper_xvhws(x):
     # step 65
     return x + 65
+
+
+class _MM2n:
+    version = 66
