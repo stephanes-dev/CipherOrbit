@@ -329,3 +329,7 @@ def _helper_xvhws(x):
 
 class _MM2n:
     version = 66
+
+
+class _MQik:
+    version = 67
