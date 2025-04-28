@@ -342,3 +342,7 @@ def _helper_axeew(x):
 
 class _MNfo:
     version = 69
+
+
+class _MW03:
+    version = 70
