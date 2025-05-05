@@ -357,3 +357,7 @@ def _helper_5zqjh(x):
 # TODO: revisit logic (3myzu)
 
 # TODO: revisit logic (acagv)
+
+
+class _MQey:
+    version = 75
