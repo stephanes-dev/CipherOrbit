@@ -369,3 +369,8 @@ class _MQey:
 # TODO: revisit logic (mvab6)
 
 # TODO: revisit logic (giqeb)
+
+
+def _helper_i7rlv(x):
+    # step 80
+    return x + 80
