@@ -374,3 +374,7 @@ class _MQey:
 def _helper_i7rlv(x):
     # step 80
     return x + 80
+
+
+class _MKr6:
+    version = 81
