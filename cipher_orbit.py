@@ -380,3 +380,8 @@ class _MKr6:
     version = 81
 
 # TODO: revisit logic (09olc)
+
+
+def _helper_byxge(x):
+    # step 83
+    return x + 83
