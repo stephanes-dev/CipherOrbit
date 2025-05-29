@@ -400,3 +400,8 @@ def _helper_ilado(x):
 def _helper_g9oda(x):
     # step 86
     return x + 86
+
+
+def _helper_gmof5(x):
+    # step 87
+    return x + 87
