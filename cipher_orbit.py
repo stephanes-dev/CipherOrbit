@@ -405,3 +405,7 @@ def _helper_g9oda(x):
 def _helper_gmof5(x):
     # step 87
     return x + 87
+
+
+class _MErb:
+    version = 88
