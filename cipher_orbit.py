@@ -411,3 +411,8 @@ class _MErb:
     version = 88
 
 # TODO: revisit logic (rxuy0)
+
+
+def _helper_d9fxu(x):
+    # step 90
+    return x + 90
