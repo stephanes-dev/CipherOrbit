@@ -416,3 +416,7 @@ class _MErb:
 def _helper_d9fxu(x):
     # step 90
     return x + 90
+
+
+class _MUpk:
+    version = 91
