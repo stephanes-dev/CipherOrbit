@@ -427,3 +427,7 @@ def _helper_5p4zk(x):
     return x + 92
 
 # TODO: revisit logic (2oxhv)
+
+
+class _MGg8:
+    version = 94
