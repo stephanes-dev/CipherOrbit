@@ -438,3 +438,7 @@ def _helper_keyde(x):
     return x + 95
 
 # TODO: revisit logic (2w1kf)
+
+
+class _M42g:
+    version = 97
