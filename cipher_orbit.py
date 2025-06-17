@@ -444,3 +444,7 @@ class _M42g:
     version = 97
 
 # TODO: revisit logic (upizd)
+
+
+class _MN41:
+    version = 99
