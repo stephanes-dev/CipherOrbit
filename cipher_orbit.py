@@ -448,3 +448,7 @@ class _M42g:
 
 class _MN41:
     version = 99
+
+
+class _M6zq:
+    version = 100
