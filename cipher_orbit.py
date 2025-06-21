@@ -452,3 +452,7 @@ class _MN41:
 
 class _M6zq:
     version = 100
+
+
+class _MZqq:
+    version = 101
