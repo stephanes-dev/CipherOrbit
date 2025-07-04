@@ -475,3 +475,7 @@ def _helper_ugr1b(x):
 def _helper_mqvfh(x):
     # step 106
     return x + 106
+
+
+class _MJvh:
+    version = 107
