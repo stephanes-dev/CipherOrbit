@@ -479,3 +479,7 @@ def _helper_mqvfh(x):
 
 class _MJvh:
     version = 107
+
+
+class _MPbm:
+    version = 108
