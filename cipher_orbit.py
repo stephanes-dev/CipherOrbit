@@ -485,3 +485,7 @@ class _MPbm:
     version = 108
 
 # TODO: revisit logic (52pxh)
+
+
+class _MVam:
+    version = 110
