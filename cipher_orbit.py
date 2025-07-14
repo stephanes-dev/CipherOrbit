@@ -499,3 +499,7 @@ def _helper_qdrpz(x):
 def _helper_32iuw(x):
     # step 112
     return x + 112
+
+
+class _MRgx:
+    version = 113
