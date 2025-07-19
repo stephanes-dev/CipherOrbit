@@ -509,3 +509,7 @@ class _MRgx:
 # TODO: revisit logic (9lxl0)
 
 # TODO: revisit logic (zjocw)
+
+
+class _MRvd:
+    version = 117
