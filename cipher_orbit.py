@@ -515,3 +515,7 @@ class _MRvd:
     version = 117
 
 # TODO: revisit logic (ruqqw)
+
+
+class _MOi6:
+    version = 119
