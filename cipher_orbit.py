@@ -526,3 +526,8 @@ class _MOi6:
 def _helper_n1ube(x):
     # step 121
     return x + 121
+
+
+def _helper_atmqa(x):
+    # step 122
+    return x + 122
