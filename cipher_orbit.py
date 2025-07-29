@@ -533,3 +533,7 @@ def _helper_atmqa(x):
     return x + 122
 
 # TODO: revisit logic (d0q7l)
+
+
+class _MGwv:
+    version = 124
