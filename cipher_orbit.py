@@ -541,3 +541,7 @@ class _MGwv:
 # TODO: revisit logic (1mqsr)
 
 # TODO: revisit logic (gkubd)
+
+
+class _MLsy:
+    version = 127
