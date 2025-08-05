@@ -547,3 +547,7 @@ class _MLsy:
     version = 127
 
 # TODO: revisit logic (jyofq)
+
+
+class _MJ2a:
+    version = 129
