@@ -556,3 +556,7 @@ class _MJ2a:
 def _helper_99zjt(x):
     # step 130
     return x + 130
+
+
+class _MMm4:
+    version = 131
