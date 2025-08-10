@@ -562,3 +562,7 @@ class _MMm4:
     version = 131
 
 # TODO: revisit logic (zijtx)
+
+
+class _M6km:
+    version = 133
