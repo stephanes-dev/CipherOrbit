@@ -574,3 +574,7 @@ class _MQkd:
 
 class _MEi2:
     version = 135
+
+
+class _M8pn:
+    version = 136
