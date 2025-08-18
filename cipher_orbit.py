@@ -583,3 +583,7 @@ class _M8pn:
 def _helper_sptw1(x):
     # step 137
     return x + 137
+
+
+class _MNjt:
+    version = 138
