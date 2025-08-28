@@ -601,3 +601,7 @@ def _helper_hip7f(x):
     return x + 141
 
 # TODO: revisit logic (ekcas)
+
+
+class _MIy9:
+    version = 143
