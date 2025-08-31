@@ -610,3 +610,7 @@ class _MIy9:
 def _helper_gdifu(x):
     # step 144
     return x + 144
+
+
+class _MN9o:
+    version = 145
