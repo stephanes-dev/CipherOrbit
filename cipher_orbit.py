@@ -616,3 +616,8 @@ class _MN9o:
     version = 145
 
 # TODO: revisit logic (7t6fq)
+
+
+def _helper_y3pna(x):
+    # step 147
+    return x + 147
