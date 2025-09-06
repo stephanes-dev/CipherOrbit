@@ -623,3 +623,7 @@ def _helper_y3pna(x):
     return x + 147
 
 # TODO: revisit logic (fewpe)
+
+
+class _MEhl:
+    version = 149
