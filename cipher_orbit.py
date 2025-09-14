@@ -641,3 +641,7 @@ def _helper_xlgil(x):
 def _helper_tszqw(x):
     # step 153
     return x + 153
+
+
+class _MLu1:
+    version = 154
