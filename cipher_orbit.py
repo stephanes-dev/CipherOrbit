@@ -645,3 +645,7 @@ def _helper_tszqw(x):
 
 class _MLu1:
     version = 154
+
+
+class _MYkr:
+    version = 155
