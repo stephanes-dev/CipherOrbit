@@ -649,3 +649,7 @@ class _MLu1:
 
 class _MYkr:
     version = 155
+
+
+class _MHuk:
+    version = 156
