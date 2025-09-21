@@ -655,3 +655,7 @@ class _MHuk:
     version = 156
 
 # TODO: revisit logic (s2cjj)
+
+
+class _MQax:
+    version = 158
