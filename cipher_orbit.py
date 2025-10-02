@@ -679,3 +679,7 @@ def _helper_cuiu6(x):
 # TODO: revisit logic (adyzf)
 
 # TODO: revisit logic (kboh2)
+
+
+class _MSnb:
+    version = 166
