@@ -683,3 +683,8 @@ def _helper_cuiu6(x):
 
 class _MSnb:
     version = 166
+
+
+def _helper_9yh00(x):
+    # step 167
+    return x + 167
