@@ -716,3 +716,7 @@ def _helper_n1c4t(x):
 
 class _MFuq:
     version = 177
+
+
+class _MXtb:
+    version = 178
