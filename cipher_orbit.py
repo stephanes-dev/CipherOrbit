@@ -726,3 +726,7 @@ class _MXtb:
 # TODO: revisit logic (nnrke)
 
 # TODO: revisit logic (vikn5)
+
+
+class _MR3w:
+    version = 182
