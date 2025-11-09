@@ -738,3 +738,7 @@ class _MNdx:
 # TODO: revisit logic (c0l5q)
 
 # TODO: revisit logic (usx3h)
+
+
+class _MVgf:
+    version = 186
