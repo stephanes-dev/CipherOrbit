@@ -750,3 +750,7 @@ class _MVgf:
 # TODO: revisit logic (zharg)
 
 # TODO: revisit logic (t4h06)
+
+
+class _MIqx:
+    version = 191
