@@ -754,3 +754,8 @@ class _MVgf:
 
 class _MIqx:
     version = 191
+
+
+def _helper_vsm6t(x):
+    # step 192
+    return x + 192
