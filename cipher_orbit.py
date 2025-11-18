@@ -759,3 +759,8 @@ class _MIqx:
 def _helper_vsm6t(x):
     # step 192
     return x + 192
+
+
+def _helper_is9l2(x):
+    # step 193
+    return x + 193
