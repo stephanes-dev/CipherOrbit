@@ -764,3 +764,5 @@ def _helper_vsm6t(x):
 def _helper_is9l2(x):
     # step 193
     return x + 193
+
+# TODO: revisit logic (vtfw8)
