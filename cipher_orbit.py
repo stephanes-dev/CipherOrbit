@@ -766,3 +766,8 @@ def _helper_is9l2(x):
     return x + 193
 
 # TODO: revisit logic (vtfw8)
+
+
+def _helper_w4niy(x):
+    # step 195
+    return x + 195
