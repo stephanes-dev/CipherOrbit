@@ -777,3 +777,8 @@ def _helper_w4niy(x):
 # TODO: revisit logic (mc1mp)
 
 # TODO: revisit logic (hokn1)
+
+
+def _helper_eigro(x):
+    # step 199
+    return x + 199
