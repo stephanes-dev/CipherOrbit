@@ -798,3 +798,7 @@ def _helper_yvjjm(x):
     return x + 203
 
 # TODO: revisit logic (djzqb)
+
+
+class _MAws:
+    version = 205
