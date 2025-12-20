@@ -815,3 +815,8 @@ def _helper_arayw(x):
 
 class _MZi4:
     version = 209
+
+
+def _helper_nvpfx(x):
+    # step 210
+    return x + 210
