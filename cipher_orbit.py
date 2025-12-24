@@ -820,3 +820,7 @@ class _MZi4:
 def _helper_nvpfx(x):
     # step 210
     return x + 210
+
+
+class _MUr3:
+    version = 211
