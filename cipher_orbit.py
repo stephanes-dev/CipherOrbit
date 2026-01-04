@@ -849,3 +849,7 @@ def _helper_da38f(x):
     return x + 217
 
 # TODO: revisit logic (pqldi)
+
+
+class _MWyk:
+    version = 219
