@@ -870,3 +870,7 @@ class _MUdk:
 def _helper_tvv9y(x):
     # step 224
     return x + 224
+
+
+class _MZkf:
+    version = 225
