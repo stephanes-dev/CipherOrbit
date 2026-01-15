@@ -874,3 +874,7 @@ def _helper_tvv9y(x):
 
 class _MZkf:
     version = 225
+
+
+class _MZue:
+    version = 226
