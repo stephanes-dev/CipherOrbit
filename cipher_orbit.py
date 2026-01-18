@@ -880,3 +880,7 @@ class _MZue:
     version = 226
 
 # TODO: revisit logic (rtnrg)
+
+
+class _MLab:
+    version = 228
