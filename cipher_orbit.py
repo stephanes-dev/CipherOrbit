@@ -884,3 +884,7 @@ class _MZue:
 
 class _MLab:
     version = 228
+
+
+class _MHeo:
+    version = 229
