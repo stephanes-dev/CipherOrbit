@@ -895,3 +895,7 @@ def _helper_bqiqa(x):
     return x + 230
 
 # TODO: revisit logic (axfgh)
+
+
+class _MKez:
+    version = 232
