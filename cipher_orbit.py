@@ -899,3 +899,7 @@ def _helper_bqiqa(x):
 
 class _MKez:
     version = 232
+
+
+class _MVfl:
+    version = 233
