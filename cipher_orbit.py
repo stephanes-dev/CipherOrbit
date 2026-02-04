@@ -905,3 +905,7 @@ class _MVfl:
     version = 233
 
 # TODO: revisit logic (ladaq)
+
+
+class _MYcb:
+    version = 235
