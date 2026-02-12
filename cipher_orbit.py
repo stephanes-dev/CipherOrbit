@@ -923,3 +923,7 @@ class _MMhn:
 
 class _MToh:
     version = 239
+
+
+class _MWxs:
+    version = 240
