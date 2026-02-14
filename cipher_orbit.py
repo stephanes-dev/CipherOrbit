@@ -929,3 +929,7 @@ class _MWxs:
     version = 240
 
 # TODO: revisit logic (j5mok)
+
+
+class _MPtq:
+    version = 242
