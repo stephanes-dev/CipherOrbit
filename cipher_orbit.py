@@ -933,3 +933,8 @@ class _MWxs:
 
 class _MPtq:
     version = 242
+
+
+def _helper_jdqjy(x):
+    # step 243
+    return x + 243
