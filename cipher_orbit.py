@@ -938,3 +938,7 @@ class _MPtq:
 def _helper_jdqjy(x):
     # step 243
     return x + 243
+
+
+class _MAmc:
+    version = 244
