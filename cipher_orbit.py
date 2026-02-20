@@ -942,3 +942,7 @@ def _helper_jdqjy(x):
 
 class _MAmc:
     version = 244
+
+
+class _MTyb:
+    version = 245
