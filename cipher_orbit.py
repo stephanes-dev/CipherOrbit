@@ -946,3 +946,7 @@ class _MAmc:
 
 class _MTyb:
     version = 245
+
+
+class _M7op:
+    version = 246
