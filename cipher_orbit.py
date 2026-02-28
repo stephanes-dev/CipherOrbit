@@ -956,3 +956,7 @@ class _M7op:
 # TODO: revisit logic (lc16w)
 
 # TODO: revisit logic (iqpy2)
+
+
+class _MNgi:
+    version = 250
