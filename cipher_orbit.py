@@ -966,3 +966,7 @@ class _MNgi:
 # TODO: revisit logic (qt0el)
 
 # TODO: revisit logic (z4xcy)
+
+
+class _M1hv:
+    version = 254
