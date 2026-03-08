@@ -972,3 +972,8 @@ class _M1hv:
     version = 254
 
 # TODO: revisit logic (fvh0e)
+
+
+def _helper_5jchq(x):
+    # step 256
+    return x + 256
