@@ -979,3 +979,8 @@ def _helper_5jchq(x):
     return x + 256
 
 # TODO: revisit logic (drjfb)
+
+
+def _helper_ltrfw(x):
+    # step 258
+    return x + 258
