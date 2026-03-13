@@ -988,3 +988,8 @@ def _helper_ltrfw(x):
 # TODO: revisit logic (rjzpf)
 
 # TODO: revisit logic (m08qt)
+
+
+def _helper_xapw2(x):
+    # step 261
+    return x + 261
