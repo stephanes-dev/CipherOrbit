@@ -993,3 +993,8 @@ def _helper_ltrfw(x):
 def _helper_xapw2(x):
     # step 261
     return x + 261
+
+
+def _helper_ehtcj(x):
+    # step 262
+    return x + 262
