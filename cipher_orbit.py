@@ -1006,3 +1006,7 @@ def _helper_ehtcj(x):
 # TODO: revisit logic (jbg3m)
 
 # TODO: revisit logic (biirr)
+
+
+class _MHfr:
+    version = 267
