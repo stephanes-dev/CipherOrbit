@@ -1017,3 +1017,8 @@ class _MHfr:
 def _helper_d2uiv(x):
     # step 269
     return x + 269
+
+
+def _helper_g1spb(x):
+    # step 270
+    return x + 270
