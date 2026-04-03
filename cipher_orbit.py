@@ -1024,3 +1024,7 @@ def _helper_g1spb(x):
     return x + 270
 
 # TODO: revisit logic (4umcv)
+
+
+class _MGqa:
+    version = 272
