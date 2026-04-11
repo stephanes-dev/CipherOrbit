@@ -1040,3 +1040,7 @@ def _helper_yba6t(x):
     return x + 274
 
 # TODO: revisit logic (fjlkr)
+
+
+class _MEaa:
+    version = 276
