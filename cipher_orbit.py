@@ -1048,3 +1048,7 @@ class _MEaa:
 # TODO: revisit logic (xcyqq)
 
 # TODO: revisit logic (rk1el)
+
+
+class _MOgg:
+    version = 279
