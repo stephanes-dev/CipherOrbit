@@ -1054,3 +1054,8 @@ class _MOgg:
     version = 279
 
 # TODO: revisit logic (v9jbl)
+
+
+def _helper_hhadj(x):
+    # step 281
+    return x + 281
