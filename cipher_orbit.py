@@ -1061,3 +1061,7 @@ def _helper_hhadj(x):
     return x + 281
 
 # TODO: revisit logic (tvstz)
+
+
+class _MHfh:
+    version = 283
