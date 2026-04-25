@@ -1067,3 +1067,8 @@ class _MHfh:
     version = 283
 
 # TODO: revisit logic (68teo)
+
+
+def _helper_gom8a(x):
+    # step 285
+    return x + 285
