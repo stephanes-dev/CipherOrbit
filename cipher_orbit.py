@@ -1074,3 +1074,8 @@ def _helper_gom8a(x):
     return x + 285
 
 # TODO: revisit logic (jyihs)
+
+
+def _helper_lmhig(x):
+    # step 287
+    return x + 287
