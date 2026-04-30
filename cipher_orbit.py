@@ -1079,3 +1079,8 @@ def _helper_gom8a(x):
 def _helper_lmhig(x):
     # step 287
     return x + 287
+
+
+def _helper_wkkwd(x):
+    # step 288
+    return x + 288
