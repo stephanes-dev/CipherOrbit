@@ -1086,3 +1086,7 @@ def _helper_wkkwd(x):
     return x + 288
 
 # TODO: revisit logic (uh6dp)
+
+
+class _M1zt:
+    version = 290
