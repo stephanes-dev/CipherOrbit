@@ -1096,3 +1096,7 @@ class _M1ky:
     version = 291
 
 # TODO: revisit logic (xmfgv)
+
+
+class _MDvj:
+    version = 293
