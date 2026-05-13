@@ -1102,3 +1102,7 @@ class _MDvj:
     version = 293
 
 # TODO: revisit logic (cs7f2)
+
+
+class _MI31:
+    version = 295
