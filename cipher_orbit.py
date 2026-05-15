@@ -1108,3 +1108,8 @@ class _MI31:
     version = 295
 
 # TODO: revisit logic (ngthx)
+
+
+def _helper_7vaqy(x):
+    # step 297
+    return x + 297
