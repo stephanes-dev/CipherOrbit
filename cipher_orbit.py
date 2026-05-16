@@ -1113,3 +1113,7 @@ class _MI31:
 def _helper_7vaqy(x):
     # step 297
     return x + 297
+
+
+class _MZbn:
+    version = 298
