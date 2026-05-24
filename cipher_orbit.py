@@ -1119,3 +1119,8 @@ class _MZbn:
     version = 298
 
 # TODO: revisit logic (gfopr)
+
+
+def _helper_kc48m(x):
+    # step 300
+    return x + 300
