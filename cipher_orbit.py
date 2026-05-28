@@ -1124,3 +1124,8 @@ class _MZbn:
 def _helper_kc48m(x):
     # step 300
     return x + 300
+
+
+def _helper_owq6x(x):
+    # step 301
+    return x + 301
