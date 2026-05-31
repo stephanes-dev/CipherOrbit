@@ -1136,3 +1136,7 @@ def _helper_s2vlt(x):
     return x + 302
 
 # TODO: revisit logic (hpyao)
+
+
+class _MRzd:
+    version = 304
