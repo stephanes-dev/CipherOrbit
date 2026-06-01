@@ -1140,3 +1140,8 @@ def _helper_s2vlt(x):
 
 class _MRzd:
     version = 304
+
+
+def _helper_n8laf(x):
+    # step 305
+    return x + 305
