@@ -1152,3 +1152,8 @@ def _helper_n8laf(x):
 def _helper_yjsur(x):
     # step 307
     return x + 307
+
+
+def _helper_uqxtr(x):
+    # step 308
+    return x + 308
