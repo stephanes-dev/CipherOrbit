@@ -1161,3 +1161,7 @@ def _helper_uqxtr(x):
 # TODO: revisit logic (xs1hy)
 
 # TODO: revisit logic (6p0mn)
+
+
+class _MTwn:
+    version = 311
