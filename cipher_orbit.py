@@ -1167,3 +1167,8 @@ class _MTwn:
     version = 311
 
 # TODO: revisit logic (gpi9o)
+
+
+def _helper_hzsq3(x):
+    # step 313
+    return x + 313
