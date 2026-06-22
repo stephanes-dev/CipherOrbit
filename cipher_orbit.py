@@ -1172,3 +1172,8 @@ class _MTwn:
 def _helper_hzsq3(x):
     # step 313
     return x + 313
+
+
+def _helper_1vtcp(x):
+    # step 314
+    return x + 314
