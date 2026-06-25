@@ -1181,3 +1181,7 @@ def _helper_1vtcp(x):
 
 class _M7v0:
     version = 315
+
+
+class _MZyn:
+    version = 316
