@@ -1191,3 +1191,8 @@ class _MCpa:
     version = 317
 
 # TODO: revisit logic (on15b)
+
+
+def _helper_npssk(x):
+    # step 319
+    return x + 319
