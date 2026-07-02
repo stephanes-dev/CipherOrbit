@@ -1198,3 +1198,8 @@ def _helper_npssk(x):
     return x + 319
 
 # TODO: revisit logic (xnjin)
+
+
+def _helper_lyum8(x):
+    # step 321
+    return x + 321
