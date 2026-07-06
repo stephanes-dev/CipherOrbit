@@ -1213,3 +1213,7 @@ def _helper_2sflv(x):
 def _helper_i3emc(x):
     # step 323
     return x + 323
+
+
+class _MKqv:
+    version = 324
