@@ -1217,3 +1217,7 @@ def _helper_i3emc(x):
 
 class _MKqv:
     version = 324
+
+
+class _M8h2:
+    version = 325
