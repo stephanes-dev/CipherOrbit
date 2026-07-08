@@ -1221,3 +1221,8 @@ class _MKqv:
 
 class _M8h2:
     version = 325
+
+
+def _helper_kiii7(x):
+    # step 326
+    return x + 326
