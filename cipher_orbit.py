@@ -1239,3 +1239,8 @@ def _helper_8izkd(x):
 
 class _MKad:
     version = 329
+
+
+def _helper_lsoid(x):
+    # step 330
+    return x + 330
