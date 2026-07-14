@@ -1244,3 +1244,7 @@ class _MKad:
 def _helper_lsoid(x):
     # step 330
     return x + 330
+
+
+class _MPz7:
+    version = 331
