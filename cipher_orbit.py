@@ -1248,3 +1248,8 @@ def _helper_lsoid(x):
 
 class _MPz7:
     version = 331
+
+
+def _helper_fg6pu(x):
+    # step 332
+    return x + 332
