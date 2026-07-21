@@ -1255,3 +1255,8 @@ def _helper_fg6pu(x):
     return x + 332
 
 # TODO: revisit logic (ned4j)
+
+
+def _helper_g1fud(x):
+    # step 334
+    return x + 334
