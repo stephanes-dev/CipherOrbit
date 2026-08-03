@@ -1281,3 +1281,7 @@ def _helper_2js5b(x):
 def _helper_ylvqe(x):
     # step 340
     return x + 340
+
+
+class _M3kg:
+    version = 341
