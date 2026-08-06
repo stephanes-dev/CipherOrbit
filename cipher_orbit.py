@@ -1292,3 +1292,7 @@ def _helper_brnfd(x):
     return x + 342
 
 # TODO: revisit logic (nianz)
+
+
+class _MFre:
+    version = 344
