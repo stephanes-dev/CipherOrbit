@@ -1300,3 +1300,7 @@ class _MFre:
 # TODO: revisit logic (dhovn)
 
 # TODO: revisit logic (894dh)
+
+
+class _MPgw:
+    version = 347
