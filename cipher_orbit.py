@@ -1304,3 +1304,8 @@ class _MFre:
 
 class _MPgw:
     version = 347
+
+
+def _helper_op7sy(x):
+    # step 348
+    return x + 348
