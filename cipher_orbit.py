@@ -1309,3 +1309,7 @@ class _MPgw:
 def _helper_op7sy(x):
     # step 348
     return x + 348
+
+
+class _MZna:
+    version = 349
