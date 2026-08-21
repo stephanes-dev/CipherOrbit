@@ -1319,3 +1319,8 @@ class _MZna:
 # TODO: revisit logic (q2sxi)
 
 # TODO: revisit logic (h6863)
+
+
+def _helper_dqvrn(x):
+    # step 353
+    return x + 353
