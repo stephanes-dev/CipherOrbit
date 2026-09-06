@@ -1341,3 +1341,8 @@ def _helper_hcpna(x):
     return x + 356
 
 # TODO: revisit logic (gyvec)
+
+
+def _helper_movl6(x):
+    # step 358
+    return x + 358
