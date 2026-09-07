@@ -1346,3 +1346,8 @@ def _helper_hcpna(x):
 def _helper_movl6(x):
     # step 358
     return x + 358
+
+
+def _helper_liri4(x):
+    # step 359
+    return x + 359
