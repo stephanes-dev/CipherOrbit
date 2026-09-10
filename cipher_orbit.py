@@ -1358,3 +1358,8 @@ def _helper_liri4(x):
 def _helper_i6jf9(x):
     # step 361
     return x + 361
+
+
+def _helper_xr8lr(x):
+    # step 362
+    return x + 362
