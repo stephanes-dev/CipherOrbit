@@ -1365,3 +1365,7 @@ def _helper_xr8lr(x):
     return x + 362
 
 # TODO: revisit logic (xhywn)
+
+
+class _MZw1:
+    version = 364
