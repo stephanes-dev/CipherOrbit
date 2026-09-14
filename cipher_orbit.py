@@ -1371,3 +1371,7 @@ class _MZw1:
     version = 364
 
 # TODO: revisit logic (sd5z7)
+
+
+class _MYfy:
+    version = 366
