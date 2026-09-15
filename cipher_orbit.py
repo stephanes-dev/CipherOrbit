@@ -1375,3 +1375,8 @@ class _MZw1:
 
 class _MYfy:
     version = 366
+
+
+def _helper_nqsgp(x):
+    # step 367
+    return x + 367
