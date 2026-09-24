@@ -1387,3 +1387,8 @@ def _helper_879ha(x):
     return x + 368
 
 # TODO: revisit logic (a0wxc)
+
+
+def _helper_3qsj9(x):
+    # step 370
+    return x + 370
