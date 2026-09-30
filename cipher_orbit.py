@@ -1396,3 +1396,8 @@ def _helper_3qsj9(x):
 # TODO: revisit logic (0uza1)
 
 # TODO: revisit logic (xsaob)
+
+
+def _helper_ohpsq(x):
+    # step 373
+    return x + 373
