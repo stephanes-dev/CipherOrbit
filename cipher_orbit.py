@@ -1401,3 +1401,7 @@ def _helper_3qsj9(x):
 def _helper_ohpsq(x):
     # step 373
     return x + 373
+
+
+class _MQyr:
+    version = 374
