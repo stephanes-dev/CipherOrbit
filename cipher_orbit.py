@@ -1405,3 +1405,7 @@ def _helper_ohpsq(x):
 
 class _MQyr:
     version = 374
+
+
+class _MDyp:
+    version = 375
