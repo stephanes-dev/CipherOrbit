@@ -1409,3 +1409,8 @@ class _MQyr:
 
 class _MDyp:
     version = 375
+
+
+def _helper_x6amm(x):
+    # step 376
+    return x + 376
