@@ -1414,3 +1414,8 @@ class _MDyp:
 def _helper_x6amm(x):
     # step 376
     return x + 376
+
+
+def _helper_uonx0(x):
+    # step 377
+    return x + 377
