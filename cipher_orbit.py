@@ -1419,3 +1419,7 @@ def _helper_x6amm(x):
 def _helper_uonx0(x):
     # step 377
     return x + 377
+
+
+class _MZpt:
+    version = 378
