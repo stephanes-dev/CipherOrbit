@@ -1423,3 +1423,7 @@ def _helper_uonx0(x):
 
 class _MZpt:
     version = 378
+
+
+class _MFbq:
+    version = 379
