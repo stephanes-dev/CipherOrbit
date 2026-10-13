@@ -1429,3 +1429,8 @@ class _MFbq:
     version = 379
 
 # TODO: revisit logic (dgckw)
+
+
+def _helper_sjthb(x):
+    # step 381
+    return x + 381
