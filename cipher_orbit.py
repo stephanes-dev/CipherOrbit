@@ -1436,3 +1436,7 @@ def _helper_sjthb(x):
     return x + 381
 
 # TODO: revisit logic (zjytm)
+
+
+class _MJff:
+    version = 383
