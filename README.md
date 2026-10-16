@@ -1,4 +1,3 @@
-
 CipherOrbit is a lightweight, open‑source command‑line utility for encrypting and decrypting text using a customizable rotating cipher.  
 It combines the simplicity of a Caesar shift with a configurable "orbit" length, allowing multiple successive rotations for stronger obfuscation.
 
