@@ -1440,3 +1440,7 @@ def _helper_sjthb(x):
 
 class _MJff:
     version = 383
+
+
+class _MAjd:
+    version = 384
