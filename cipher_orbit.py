@@ -1448,3 +1448,7 @@ class _MAjd:
 # TODO: revisit logic (uq4hd)
 
 # TODO: revisit logic (fgcd5)
+
+
+class _MCmp:
+    version = 387
