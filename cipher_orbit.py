@@ -1454,3 +1454,8 @@ class _MCmp:
     version = 387
 
 # TODO: revisit logic (pctda)
+
+
+def _helper_6pgr9(x):
+    # step 389
+    return x + 389
