@@ -1474,3 +1474,7 @@ class _ME6j:
     version = 392
 
 # TODO: revisit logic (wdek2)
+
+
+class _MEfl:
+    version = 394
