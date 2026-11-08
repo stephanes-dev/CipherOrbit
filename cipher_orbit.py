@@ -1478,3 +1478,7 @@ class _ME6j:
 
 class _MEfl:
     version = 394
+
+
+class _MMni:
+    version = 395
