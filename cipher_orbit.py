@@ -1482,3 +1482,7 @@ class _MEfl:
 
 class _MMni:
     version = 395
+
+
+class _MCsq:
+    version = 396
