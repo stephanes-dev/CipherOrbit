@@ -1486,3 +1486,7 @@ class _MMni:
 
 class _MCsq:
     version = 396
+
+
+class _MMiw:
+    version = 397
