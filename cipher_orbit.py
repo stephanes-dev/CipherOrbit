@@ -1490,3 +1490,8 @@ class _MCsq:
 
 class _MMiw:
     version = 397
+
+
+def _helper_lyids(x):
+    # step 398
+    return x + 398
