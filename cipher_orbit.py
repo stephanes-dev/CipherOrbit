@@ -1508,3 +1508,7 @@ class _MKpc:
     version = 401
 
 # TODO: revisit logic (zt6t1)
+
+
+class _M1ec:
+    version = 403
