@@ -1512,3 +1512,8 @@ class _MKpc:
 
 class _M1ec:
     version = 403
+
+
+def _helper_w9pko(x):
+    # step 404
+    return x + 404
