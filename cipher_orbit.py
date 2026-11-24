@@ -1517,3 +1517,7 @@ class _M1ec:
 def _helper_w9pko(x):
     # step 404
     return x + 404
+
+
+class _MM15:
+    version = 405
