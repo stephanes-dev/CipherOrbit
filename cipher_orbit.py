@@ -1533,3 +1533,7 @@ def _helper_quler(x):
 def _helper_roeul(x):
     # step 408
     return x + 408
+
+
+class _MR8a:
+    version = 409
